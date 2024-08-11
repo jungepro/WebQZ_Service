@@ -1,0 +1,21 @@
+后台地址：
+http://localhost:8080/coderQ/admin/dist/index.html
+
+
+前端地址：
+http://localhost:8080/coderQ/coderQ/index
+
+
+
+管理员：
+admin       123456
+
+用户：
+001         001
+
+
+网页：
+https://news.bjd.com.cn/2023/05/13/10429239.shtml
+https://news.bjd.com.cn//2023/05/14/10429976.shtml
+https://news.bjd.com.cn//2023/05/14/10429973.shtml
+https://news.bjd.com.cn//2023/05/14/10429968.shtml

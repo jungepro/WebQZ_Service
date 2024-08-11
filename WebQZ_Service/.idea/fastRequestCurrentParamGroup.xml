@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestCurrentParamGroup">
+    <option name="className" value="org.jeecg.modules.coderQ.controller.FunController" />
+    <option name="method" value="doQuZhen" />
+    <option name="module" value="jeecg-boot-module-system" />
+    <option name="originUrl" value="/coderQ/prefun/doQuZhen" />
+    <option name="requestParamMap">
+      <map>
+        <entry key="time">
+          <value>
+            <Object />
+          </value>
+        </entry>
+        <entry key="url">
+          <value>
+            <Object />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="returnDocument" value="{&#10;&#9;&quot;success&quot;:&quot;成功标志&quot;,&#10;&#9;&quot;message&quot;:&quot;返回处理消息&quot;,&#10;&#9;&quot;code&quot;:&quot;返回代码&quot;,&#10;&#9;&quot;result&quot;:{},&#10;&#9;&quot;timestamp&quot;:&quot;时间戳&quot;&#10;}" />
+    <option name="url" value="/coderQ/prefun/doQuZhen" />
+  </component>
+</project>
